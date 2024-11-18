@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidViewBinding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Название</string>
+    <string name="home_page">Домашняя страница</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="logIn">Войти</string>
+    <string name="send">Отправить</string>
+    <string name="chats">Чаты</string>
+    <string name="profile">Редактирование профиля</string>
+    <string name="oldPassword">Старый пароль</string>
+    <string name="newPassword">Новый пароль</string>
+    <string name="apply">Принять изменения</string>
+    <string name="settingsIn">Тут должны быть настройки</string>
+    <string name="settings">Настройки</string>
+    <string name="isDoNotEmpty">Поле не может быть пустым</string>
+</resources>
